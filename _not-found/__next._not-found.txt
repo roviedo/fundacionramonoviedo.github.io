@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
 2:I[60445,["/fundacionramonoviedo.github.io/_next/static/chunks/710cc579ea1fa748.js","/fundacionramonoviedo.github.io/_next/static/chunks/41dacbac1bf8f944.js"],"default"]
 3:I[97818,["/fundacionramonoviedo.github.io/_next/static/chunks/710cc579ea1fa748.js","/fundacionramonoviedo.github.io/_next/static/chunks/41dacbac1bf8f944.js"],"default"]
-0:{"buildId":"xmgNM_zoAvVVIy5FTpWVQ","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"0q7zWg16emM9A5GZLb_oT","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
